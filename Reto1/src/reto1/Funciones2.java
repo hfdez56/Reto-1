@@ -14,7 +14,7 @@ public class Funciones2 {
 		}else {
 			System.out.println("no se puede dividir por cero");
 		}
-		return division;
+		return division ;
 	}
 
 }
